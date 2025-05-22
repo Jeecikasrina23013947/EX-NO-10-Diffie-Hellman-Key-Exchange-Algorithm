@@ -19,6 +19,8 @@ To Implement Diffie Hellman Key Exchange Algorithm
 5. Security: The difficulty of computing discrete logarithms ensures that the shared key remains secure even if public values are intercepted.
 
 ## Program:
+# NAME:JEECIKASRINA M
+REG NO:212223100015
 
 ```
 #include <math.h>
